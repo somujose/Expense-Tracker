@@ -12,3 +12,5 @@ Nuget packages Used
 6.NUnitTestAdapter
 
 And other nuget packages which automaticaly shipped along with MVC5 and EntityFramework applications
+
+Please refer packages.config for each project for any additional nuget package details
